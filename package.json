@@ -1,0 +1,15 @@
+{
+  "name": "horrific-deep-dive-into-ts",
+  "version": "1.0.0",
+  "description": "This is a repo aims at helping people understand the most fundamental and crucial concepts of TS. Also digging deep into some advanced topics!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "typescript": "^5.4.4"
+  }
+}
