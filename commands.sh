@@ -1,0 +1,1 @@
+RUN_MULTIPLE_FILES = "npx tsc --outDir ./dist ./src/*.ts";

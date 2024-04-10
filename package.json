@@ -4,6 +4,7 @@
   "description": "This is a repo aims at helping people understand the most fundamental and crucial concepts of TS. Also digging deep into some advanced topics!",
   "main": "index.js",
   "scripts": {
+    "start": "tsc && node dist/index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
