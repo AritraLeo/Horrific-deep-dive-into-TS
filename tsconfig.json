@@ -4,7 +4,8 @@
         "rootDir": "./",
         "target": "es5",
         "module": "commonjs",
-        "strict": true
+        "strict": true,
+        "lib": ["es2015", "es2015.promise", "dom"] // Add other libraries as needed
     },
     "include": [
         "./**/*.ts"

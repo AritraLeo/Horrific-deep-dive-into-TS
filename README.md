@@ -8,4 +8,5 @@ This is a repo aims at helping people understand the most fundamental and crucia
 3. Static
 4. OOL (Object-Oriented)
 
-
+# For running ES2015 Promises and other features command will be -
+npx tsc --outDir ./dist --lib es2015,dom .\test.ts
