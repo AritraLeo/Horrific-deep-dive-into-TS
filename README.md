@@ -8,5 +8,10 @@ This is a repo aims at helping people understand the most fundamental and crucia
 3. Static
 4. OOL (Object-Oriented)
 
+# Most Used commands to test the examples - 
+
+npx tsc --outDir ./dist .\test.ts
+node dist/test.js    
+
 # For running ES2015 Promises and other features command will be -
 npx tsc --outDir ./dist --lib es2015,dom .\test.ts
